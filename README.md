@@ -127,4 +127,4 @@ The four-task linear chain here uses the same building blocks as a production pi
 
 ## Related
 
-This pipeline feeds the same funnel metrics used in a [Tableau Public conversion funnel dashboard](https://public.tableau.com/views/) built from the same GA4 dataset. The dashboard visualizes channel-level funnel performance with stage-level conversion rates and channel comparison views.
+This pipeline feeds the same funnel metrics used in a [Tableau Public conversion funnel dashboard](https://public.tableau.com/views/GA4Funnel/GMSFDash?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) built from the same GA4 dataset. The dashboard visualizes channel-level funnel performance with stage-level conversion rates and channel comparison views.
